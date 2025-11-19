@@ -58,13 +58,8 @@ Automatisation de provisioning
 Nettoyage / housekeeping
 Génération de rapports et métriques
 
-Tech Stack
-VMware • vCenter • Windows Server • Linux
-Active Directory • LDAP • Keycloak • Intune • SCCM
-Node.js • Express • Prisma • PostgreSQL
-Nagios • SolarWinds • Bash • PowerShell • Python
-
 Me contacter
+
 LinkedIn : https://www.linkedin.com/in/angelooussatchedji
 Email : oussangelo@gmail.com
 GitHub : https://github.com/oussangelo/angelo-oussatchedji-portfolio
